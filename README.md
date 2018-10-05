@@ -1,10 +1,10 @@
-# nodeSqliteChart
+# node-sqlite-chart - HowTo
 Example for
 - reading data from file
 - add data to sqlite-database
 - show data in a chart
 
-## cmd + URL
+## cmd + url
 node addData2sqlite.js
 node importFile event.txt
 cmd: node showChart.js URL: http://localhost:3005
