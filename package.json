@@ -1,0 +1,25 @@
+{
+  "name": "parse_dsplog",
+  "version": "1.0.0",
+  "description": "parse DSP Logfile",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "parsedsplog"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Michael Graßmann",
+  "license": "ISC",
+  "dependencies": {
+    "chart.js": "^2.7.2",
+    "dateformat": "^3.0.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.3",
+    "sqlite3": "^4.0.2"
+  }
+}
