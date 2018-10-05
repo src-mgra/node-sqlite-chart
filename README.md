@@ -11,6 +11,7 @@ cmd: node showChart.js URL: http://localhost:3005
 
 ## needed packages
   "chart.js": "^2.7.2",
-  "dateformat": "^3.0.3",
+ 
   "express": "^4.16.3",
+  
   "sqlite3": "^4.0.2"
